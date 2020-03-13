@@ -14,8 +14,3 @@
     height: 20vh;
     /* Height: Use default of content height or specify height */
 }
-
-
-/* Styling for images, with cells */
-
-.carousel .cell img {}
