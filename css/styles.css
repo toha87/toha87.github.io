@@ -10,7 +10,8 @@
 .carousel .cell {
     background: gray;
     /* Width: adjust as needed. 100% is full-width of container */
-    width: 66%;
+    width: 100%;
+    height: 20vh;
     /* Height: Use default of content height or specify height */
 }
 
