@@ -470,7 +470,8 @@ article .main-content p+p {
 }
 
 .contact_form {
-    padding: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 @media only screen and (min-width: 1200px) {
