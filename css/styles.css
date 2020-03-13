@@ -1,3 +1,20 @@
-body {
-    background: coral;
+/* Style carousel container */
+
+.carousel {
+    background: gray;
 }
+
+
+/* Style individual carousel-cell content */
+
+.carousel .cell {
+    background: gray;
+    /* Width: adjust as needed. 100% is full-width of container */
+    width: 66%;
+    /* Height: Use default of content height or specify height */
+}
+
+
+/* Styling for images, with cells */
+
+.carousel .cell img {}
